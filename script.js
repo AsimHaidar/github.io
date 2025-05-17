@@ -1,0 +1,1 @@
+document.getElementById("breadboard").innerHTML = "مرحبًا! سيتم عرض المحرر هنا لاحقًا.";
